@@ -1,5 +1,5 @@
 {
-  "name": "x-twitter-embed-editorjs-plugin",
+  "name": "x-twitter-editorjsd",
   "version": "1.0.0",
   "description": "Plugin for Editor.js to render Twitter iframe (updated to process X.com also)",
   "main": "dist/index.js",
